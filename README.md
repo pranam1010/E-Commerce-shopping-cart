@@ -13,7 +13,7 @@ SmartShop is a console-based shopping cart application built in Java using objec
 - FileWriter (Java I/O)  
 - Console-based interface
 ## 🏗️ Project Structure
-SmartShop
+E-commerce shopping cart
 ├── Main.java
 ├── Product.java
 ├── CartItem.java
